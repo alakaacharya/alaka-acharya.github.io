@@ -1,0 +1,114 @@
+body{
+    background-color: #e7e7e7;
+    font-family: "Comic Sans MS", cursive, sans-serif;
+}
+
+.bg-1{
+	background-color: #0db57b;
+	width: 100%;
+	height:300px;
+}
+
+.navbar-inverse{
+	width: 50%;
+	margin-left: 300px;
+	padding: 0px 100px 0px 100px;
+	
+}
+
+.navbar-inverse li a {
+  display: block;
+  font-size: 18px;
+  padding: 8px 16px;
+  text-decoration: none;
+}
+
+.text-left{
+	color: white;
+	margin-left: 60px;
+	font-family: 
+
+}
+
+.bg-2{
+	background-color: white;
+	width: 60%;
+	height:300px;
+	margin-top: 100px;
+}
+
+.mini{
+	border:1px solid black;
+}
+
+
+.photo{
+	height: 90%;
+	width: 30%;
+	border:0.5px solid grey;
+	float: left;
+	margin-top: 10px;
+}
+
+.img-responsive{
+	float: left;
+
+}
+
+.intro{
+	background-color: white;
+	position: relative;
+	width: 50%;
+	height: 100%;
+	float:left;
+	margin-left: 50px;
+	font-size: 15px;
+}
+
+.social{
+	position: absolute;
+	background-color: #0db57b;
+	width:100%;
+	height: 40px;
+	bottom: 0;
+}
+
+.fab{
+	color: black;
+}
+
+
+.education{
+	background-color: white;
+	width: 60%;
+	height:300px;
+	margin-top: 300px;
+}
+
+.table-hover{
+	width: 80%;
+	margin-left: 50px;
+}
+
+.skills{
+	background-color: white;
+	width: 60%;
+	height: 400px;
+	margin-top: 100px;
+}
+
+.jumbotron{
+	height: 300px;
+	width: 40%;
+	float: left;
+	margin-left: 30px;
+}
+
+.training{
+	background-color: white;
+	width: 60%;
+	height: 300px;
+	margin-top: 100px;
+	margin-bottom: 50px;
+}
+
